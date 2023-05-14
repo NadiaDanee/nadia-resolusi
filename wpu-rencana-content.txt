@@ -6,5 +6,7 @@ RENCANA KONTEN WPU
 * Framework
 -struktur data 
 - PHP Framework
+> laravel
 - Interview
 - vlog
+- phytons
